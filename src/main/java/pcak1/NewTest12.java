@@ -18,5 +18,7 @@ public class NewTest12 {
         
        String atitle =  driver.getTitle();
        String etitle = "Cogmento CRM";
+       
+       System.out.println("test tet");
   }
 }
